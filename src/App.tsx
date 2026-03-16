@@ -71,7 +71,7 @@ function App() {
   };
 
   return (
-    <div className= "all"> 
+    <div style={{ padding: '20px', textAlign: 'center', minHeight: '100vh'}} > 
     <div className="container mt-5">
       <h1 className="text-center mb-4">LIBRARY BOOK REQUEST FORM</h1>
 
